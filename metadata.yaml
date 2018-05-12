@@ -1,0 +1,51 @@
+_repo: Darwinism--1889---13-An-exposition-of-the-theory-of-natural-selection-with-some-of-its-applic__14558
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wallace, Alfred Russel
+    aliases:
+    - Wallace, Russell
+    - Wallace, A. R. (Alfred Russel)
+    birthdate: 1823
+    deathdate: 1913
+    gutenberg_agent_id: '955'
+    url: http://www.gutenberg.org/2009/agents/955
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Russel_Wallace
+description: "Darwinism: An Exposition of the Theory of Natural Selection with Some\
+  \ of Its Applications is an 1889 book on biological evolution by Alfred Russel Wallace,\
+  \ the co-discoverer of evolution by natural selection together with Charles Darwin.\
+  \ This was a book Wallace wrote as a defensive response to the scientific critics\
+  \ of natural selection. Of all Wallace's books, it is cited by scholarly publications\
+  \ the most.\nIn the preface to Darwinism, Wallace had used the term pure-Darwinism\
+  \ which proposed a \"greater efficacy\" for natural selection. The book is notable\
+  \ for defending August Weismann's theory of heredity and rejecting the inheritance\
+  \ of acquired characteristics and the concept of sexual selection which Darwin gave\
+  \ credence to. George Romanes dubbed this view as \"Wallaceism\", noting that in\
+  \ contrast to Darwin, this position was advocating a \"pure theory of natural selection\
+  \ to the exclusion of any supplementary theory.\" The book is seen as laying the\
+  \ foundation for the neo-Darwinian theory of evolution.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2005-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14558'
+  lccn: '04005635'
+  wikidata: Q5226079
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural selection'
+- !lcc 'QH'
+- !lcsh 'Evolution'
+title: "Darwinism (1889)\r\nAn exposition of the theory of natural selection, with\
+  \ some of its applications"
+url: http://www.gutenberg.org/ebooks/14558
+wikipedia:
+- https://en.wikisource.org/wiki/Darwinism_(Wallace)
+- https://en.wikipedia.org/wiki/Darwinism_(book)
+- https://id.wikipedia.org/wiki/Darwinism_(buku)
